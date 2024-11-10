@@ -1,0 +1,14 @@
+img{
+  width:280px;
+  height:280px;
+  border-radius:15px;
+}
+body{
+  background-color:rgb(214,226,240);
+}
+#div2{
+  align-items:center;
+  height:300px;
+  width:350px;
+  background-color:white;
+}
