@@ -8,14 +8,23 @@ body{
   background-color:rgb(214,226,240);
 }
 #div2{
+  margin-top:25px;
   background-color:white;
   border-radius:15px;
   justify-items:center;
   align-items:center;
 }
-#h1{
-  
+#h1{font-size:22px;
+  text-align:center;
+  color:rgb(31,50,81);
+  padding:20px;
 }
-#p1{
-  
+#p1{font-size:15px;
+text-align:center;
+color:rgb(123,135,157);
+padding:20px;
+padding-top:0px;
+}
+#div1{
+  margin:15px;
 }
