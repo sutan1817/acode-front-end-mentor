@@ -21,8 +21,19 @@ height:30%;
   width:40px;
   height:40px;
   display:flex;
-  
 }
+section{
+  text-align:center;
+  display:flex;
+  background-color:white;
+  align-items:center;
+}
+#p1{display:inline-block;
+  margin-left:10px;
+  font-style:;
+  font-weight:bold;
+}
+#
 
   
 
