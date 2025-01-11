@@ -1,5 +1,5 @@
 body{background-color:hsl(47,88%,63%);
-  
+  text-align:center;
 }
 img{
   display:inline-block;
@@ -13,6 +13,7 @@ main{
   padding-bottom:10px;
   box-shadow:10px 5px 5px ;
   border-block-color:black;
+  width:max(375px,1440px);
 }
 #img1{border-radius:20px;
 width:100% ;
