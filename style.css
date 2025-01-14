@@ -13,7 +13,7 @@ main{
   padding-bottom:10px;
   box-shadow:10px 5px 5px ;
   border-block-color:black;
-  max-width:640;
+  width:max(375px,1440px);
   
 }
 #img1{border-radius:20px;
