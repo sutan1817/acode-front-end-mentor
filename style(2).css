@@ -1,9 +1,9 @@
 body{
  background-image:url("background-desktop.png");
 }
-p{
+p1{
   color:white;
 }
-#formmid{
-  justify-content:center;
+h1{
+  color:white;
 }
