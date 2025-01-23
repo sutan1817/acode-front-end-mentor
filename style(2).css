@@ -3,7 +3,11 @@
   box-sizing:border-box;
 }
 :root{
-  //netral//
- 
+  //neutral//
+   --neutral-0:hsl(0,0%,100%);
+   --neutral-300:hsl(0,0%,);
+   --neutral-500:;
+   --neutral-700:;
+   --neutral-900:;
   //ORANGE//
 }
