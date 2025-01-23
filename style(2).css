@@ -5,9 +5,9 @@
 :root{
   //neutral//
    --neutral-0:hsl(0,0%,100%);
-   --neutral-300:hsl(0,0%,);
-   --neutral-500:;
-   --neutral-700:;
-   --neutral-900:;
+   --neutral-300:hsl(252,6%,83%);
+   --neutral-500:;hsl(245,15%,58%)
+   --neutral-700:;hsl(245,19%,35%)
+   --neutral-900:;hsl(255,45%,11%)
   //ORANGE//
 }
