@@ -10,4 +10,9 @@
    --neutral-700:;hsl(245,19%,35%)
    --neutral-900:;hsl(255,45%,11%)
   //ORANGE//
+  --orange-500:;hsl(7,88%,67%)
+  --orange-700:;hsl(7,71%,60%)
+  //gradient//
+   --gradient-text-start:;hsl(7,88%,67%)
+   --gradient-text-end:;hsl(0,0%,100%)
 }
