@@ -20,3 +20,13 @@ img{
   max-width:100%;
   display:block;
 }
+.div-form{align-items:center
+;
+text-align:center;
+}
+.div-form input{
+background-color:gray;
+border-radius:10px;
+border-inline-color:white;
+width:50;
+}
