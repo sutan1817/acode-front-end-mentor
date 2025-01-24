@@ -16,3 +16,7 @@
    --gradient-text-start:;hsl(7,88%,67%)
    --gradient-text-end:;hsl(0,0%,100%)
 }
+img{
+  max-width:100%;
+  display:block;
+}
