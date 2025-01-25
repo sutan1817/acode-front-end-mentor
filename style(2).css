@@ -45,6 +45,10 @@ body{
 .maindiv:nth-child(1)img{
   width:100%;
 }
+.maindiv:nth-child(2){
+  top:100px;
+  right:0px;
+}
 
 //my part//
 .iv-form{align-items:center
