@@ -36,13 +36,17 @@ body{
   display:grid;
   place-content:center;
 }
+.maindiv{
+  position:absolute;
+}
+.maindiv
 
 //my part//
-.div-form{align-items:center
+.iv-form{align-items:center
 ;
 text-align:center;
 }
-.div-form input{
+.iv-form input{
 
 border-radius:5px;
 border-inline-color:white;
@@ -51,10 +55,10 @@ height:35px;
 overflow:hidden;
 }
 
-#form-ticket label{
+#orm-ticket label{
   color:--neutral-300;
 }
-#uploud image{
+#ploud image{
   align-content:center;
   align-items:center;
   align-self:center;
