@@ -39,7 +39,12 @@ body{
 .maindiv{
   position:absolute;
 }
-.maindiv:nth-child()
+.maindiv:nth-child(1){
+  width:100%;
+}
+.maindiv:nth-child(1)img{
+  width:100%;
+}
 
 //my part//
 .iv-form{align-items:center
