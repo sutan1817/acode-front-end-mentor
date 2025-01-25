@@ -28,11 +28,11 @@ body{
   font-family:"inconsolata",serif;
 }
 .image-container{
-  background:url(password generator//design font and style//);
+  background:url(password generator//design font and style//background-desktop.png);
   width:100%;
   height:100vh;
-  aspect-ratio:16 /9 ;
-  
+  aspect-ratio:16 /9;
+  overflow-y:hidden;
 }
 
 //my part//
