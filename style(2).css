@@ -20,6 +20,15 @@ img{
   max-width:100%;
   display:block;
 }
+body{
+  background-color:var(--neutral-900);
+  color:white;
+  min-height:100vh;
+  font-family:"inconsolata",serif;
+}
+
+
+//my part//
 .div-form{align-items:center
 ;
 text-align:center;
