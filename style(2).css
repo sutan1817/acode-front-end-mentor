@@ -54,7 +54,8 @@ body{
   left:0px;
 }
 .maindiv:nth-child(5){
-  
+  top:50%;
+  right:350px;
 }
 .maindiv:nth-child(4){
   top:-100px;
