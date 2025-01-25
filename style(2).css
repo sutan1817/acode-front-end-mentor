@@ -65,9 +65,9 @@ body{
   text-align:center;
 }
 .heading p{
-  margin: ;
-  margin-bottom:;
-  
+  font-size:1.5rem ;
+  margin-bottom:3rem;
+  font-weight:700;
 }
 
 //my part//
