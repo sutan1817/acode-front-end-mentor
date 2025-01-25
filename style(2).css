@@ -39,7 +39,7 @@ body{
 .maindiv{
   position:absolute;
 }
-.maindiv
+.maindiv:nth-child()
 
 //my part//
 .iv-form{align-items:center
