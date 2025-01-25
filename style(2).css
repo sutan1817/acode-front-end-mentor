@@ -28,7 +28,7 @@ body{
   font-family:"inconsolata",serif;
 }
 .image-container{
-  background:url(password generator//design font and style//background-desktop.png);
+  background:url(password generator//design font and style//background-desktop.png) no repeat repeat/center;
   width:100%;
   height:100vh;
   aspect-ratio:16 /9;
