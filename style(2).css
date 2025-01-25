@@ -30,7 +30,13 @@ border-radius:5px;
 border-inline-color:white;
 width:50%;
 height:35px;
+overflow:hidden;
 }
 #form-ticket label{
   color:--neutral-300;
+}
+#uploud image{
+  align-content:center;
+  align-items:center;
+  align-self:center;
 }
