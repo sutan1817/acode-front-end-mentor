@@ -27,7 +27,11 @@ body{
   min-height:100vh;
   font-family:"inconsolata",serif;
 }
-
+.image-container{
+  width:100%;
+  height:100vh;
+  aspect-ratio:16/9;
+}
 
 //my part//
 .div-form{align-items:center
