@@ -97,8 +97,11 @@ body{
   display:block;
 }
 .form-item inputs{
-  backdrop-filter:;
+  backdrop-filter:blur(2px)saturate(100%);
   background-color:--neutral-500;
+  webkit-backdrop-filter:blur(2px) saturate(100%);
+  color:var(--neutral-0);
+  width:100%;
 }
 .heading{
  background:var(--gradient-text-start);
