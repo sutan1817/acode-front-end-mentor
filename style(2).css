@@ -76,9 +76,8 @@ body{
 .heading{
  background:var(--gradient-text-start);
  background:linear gradient(to right,10%(--gradient-text-start),100%(--gradient-text-start));
- webkit-text-fill-color:transparent;
- webkit-background-clip:text;
-}
+-webkit-text-fill-color:transparent;
+-webkit-background-clip:text;}
 
 //my part//
 .iv-form{align-items:center
