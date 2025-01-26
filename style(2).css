@@ -92,9 +92,13 @@ body{
 .form-item{
   margin-bottom:1.5rem;
 }
-.form-item label{
+.form-item label {
   margin-bottom:.5rem;
   display:block;
+}
+.form-item inputs{
+  backdrop-filter:;
+  background-color:--neutral-500;
 }
 .heading{
  background:var(--gradient-text-start);
