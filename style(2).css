@@ -26,6 +26,7 @@ body{
   color:white;
   min-height:100vh;
   font-family:"inconsolata",serif;
+  place-content:center;
 }
 .image-container{
   background:url(password generator//design font and style//background-desktop.png) no repeat repeat/center;
@@ -114,7 +115,6 @@ body{
 .p-hint{
   display:none;
 }
-
 
 
 //my part//
