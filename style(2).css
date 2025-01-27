@@ -111,6 +111,9 @@ body{
 .input-form{
   color:--orange-500;
 }
+.p-hint{
+  display:none;
+}
 
 
 
