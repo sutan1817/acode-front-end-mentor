@@ -94,7 +94,7 @@ body{
 }
 .form-item label {
   margin-bottom:.5rem;
-  display:block;
+  display:block:
 }
 .form-item inputs{
   backdrop-filter:blur(2px)saturate(100%);
