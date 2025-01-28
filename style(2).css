@@ -90,22 +90,24 @@ body{
 .div-form .logo{
   margin:@ auto 2rem auto;
 }
-.form-item{
+.div-form{
   margin-bottom:1.5rem;
 }
-.form-item label {
+.div-form label {
   margin-bottom:.5rem;
   display:block:
 }
-.form-item input{
+.div-form input{
   backdrop-filter:blur(2px)saturate(100%);
   background-color:purple;
   webkit-backdrop-filter:blur(2px) saturate(100%);
   color:var(--neutral-0);
   width:100%;
-  padding:1rem.5rem;
+  pdding:1rem.5rem;
   display:block;
   border:1px solid var(--neutral-300);
+  border-radius:0.5rem;
+  transition:all 200ms ease;
 }
 .heading{
  background:var(--gradient-text-start);
@@ -118,7 +120,6 @@ body{
 .p-hint{
   display:none;
 }
-
 
 //my part//
 .iv-form{align-items:center
