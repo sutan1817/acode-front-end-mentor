@@ -97,9 +97,9 @@ body{
   margin-bottom:.5rem;
   display:block:
 }
-.form-item inputs{
+.form-item input{
   backdrop-filter:blur(2px)saturate(100%);
-  background-color:--neutral-500;
+  background-color:purple;
   webkit-backdrop-filter:blur(2px) saturate(100%);
   color:var(--neutral-0);
   width:100%;
