@@ -103,6 +103,9 @@ body{
   webkit-backdrop-filter:blur(2px) saturate(100%);
   color:var(--neutral-0);
   width:100%;
+  padding:1rem.5rem;
+  display:block;
+  border:1px solid var(--neutral-300);
 }
 .heading{
  background:var(--gradient-text-start);
@@ -110,7 +113,7 @@ body{
 -webkit-text-fill-color:transparent;
 -webkit-background-clip:text;}
 .input-form{
-  color:--orange-500;
+  color:var(--orange-500);
 }
 .p-hint{
   display:none;
