@@ -84,10 +84,10 @@ body{
   position:relative;
   z-index:20;
 }
-.form-items .hide{
+.dix-form .hide{
   display:none;
 }
-.form-items .logo{
+.div-form .logo{
   margin:@ auto 2rem auto;
 }
 .form-item{
