@@ -84,6 +84,9 @@ body{
   position:relative;
   z-index:20;
 }
+#form-tickets label{
+  padding:70rem;
+}
 .dix-form .hide{
   display:none;
 }
@@ -99,11 +102,11 @@ body{
 }
 .div-form input{
   backdrop-filter:blur(2px)saturate(100%);
-  background-color:purple;
+  background-color:hsl(248,15%,58%);
   webkit-backdrop-filter:blur(2px) saturate(100%);
   color:var(--neutral-0);
   width:100%;
-  pdding:1rem.5rem;
+  padding:1rem.5rem;
   display:block;
   border:1px solid var(--neutral-300);
   border-radius:0.5rem;
@@ -114,11 +117,22 @@ body{
  background:linear gradient(to right,10%(--gradient-text-start),100%(--gradient-text-start));
 -webkit-text-fill-color:transparent;
 -webkit-background-clip:text;}
-.input-form{
-  color:var(--orange-500);
-}
 .p-hint{
   display:none;
+}
+#image-input{
+  align-self:center;
+  background-color:white;
+  align-content:center;
+}
+#image-input button{
+  align-self:center;
+}
+#tombol-aksi{
+  align-items:center;
+}
+#uploud-image{
+  
 }
 
 //my part//
@@ -139,7 +153,5 @@ overflow:hidden;
   color:--neutral-300;
 }
 #ploud image{
-  align-content:center;
-  align-items:center;
-  align-self:center;
+  
 }
