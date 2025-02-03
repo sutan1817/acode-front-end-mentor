@@ -132,7 +132,10 @@ body{
   align-items:center;
 }
 #uploud-image{
-  
+  border:dashed;
+  border-color:red;
+  background-color:--neutral-700;
+  backdrop-filter:blur;
 }
 
 //my part//
