@@ -134,8 +134,10 @@ body{
 #uploud-image{
   border:dashed;
   border-color:white;
-  background-color:--neutral-700;
+  background-color:hsl(245,19%,35%);
   backdrop-filter:blur(10px);
+  align-items:center;
+  border-radius:5px;
 }
 
 //my part//
