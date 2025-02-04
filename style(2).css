@@ -133,9 +133,9 @@ body{
 }
 #uploud-image{
   border:dashed;
-  border-color:red;
+  border-color:white;
   background-color:--neutral-700;
-  backdrop-filter:blur;
+  backdrop-filter:blur(10px);
 }
 
 //my part//
