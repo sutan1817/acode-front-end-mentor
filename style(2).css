@@ -136,7 +136,8 @@ body{
   border-color:white;
   background-color:hsl(245,19%,35%);
   backdrop-filter:blur(10px);
-  align-content:center;
+  text-align:center;
+  flex-direction:column;
   border-radius:5px;
 }
 
