@@ -136,7 +136,7 @@ body{
   border-color:white;
   background-color:hsl(245,19%,35%);
   backdrop-filter:blur(10px);
-  align-items:center;
+  align-content:center;
   border-radius:5px;
 }
 
