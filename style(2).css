@@ -155,7 +155,11 @@ body{
   object-fit:cover;
 }
 #generate-my-tickets{
-  ba
+  background-color:--orange-500;
+  padding:2rem;
+  width:100%;
+  font-size:1.25rem;
+  font-weight:700;
 }
 
 
