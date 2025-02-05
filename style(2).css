@@ -147,7 +147,7 @@ body{
   background-color:--neutral-500;
 }
 #uploud-image .label-input{
-  
+  display:none;
 }
 
 
