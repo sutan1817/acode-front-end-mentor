@@ -144,7 +144,7 @@ body{
   cursor:pointer;
 }
 #uploud-image:hover{
-  background-color:--neutral-500;
+  background-color:var(--neutral-500);
 }
 #uploud-image .label-input{
   display:none;
@@ -155,11 +155,16 @@ body{
   object-fit:cover;
 }
 #generate-my-tickets{
-  background-color:--orange-500;
+  background-color:var(--orange-500);
   padding:2rem;
   width:100%;
   font-size:1.25rem;
   font-weight:700;
+  border:0px;
+  border-radius:0.75rem;
+}
+#generate-my-tickets:hover{
+  background-color:var(--orange-700);
 }
 
 
