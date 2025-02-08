@@ -1,7 +1,14 @@
 #div1{
   border-color:black;
+  width:90%;
+  height:64px;
+  border:bold;
 }
 body{
   min-height:100vh;
   width:100%;
+}
+#lembar-isi{
+  border-color:red;
+  border:bold;
 }
