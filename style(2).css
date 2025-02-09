@@ -95,6 +95,7 @@ body{
 }
 .div-form{
   margin-bottom:1.5rem;
+  display:none;
 }
 .div-form label {
   margin-bottom:.5rem;
