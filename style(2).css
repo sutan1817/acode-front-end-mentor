@@ -170,7 +170,8 @@ body{
 
 //ticket-part//
 .logo-tickets{
-  
+  background-color:--neutral-900;
+  background-image:url(password generator//design font and style//pattern-ticket.svg);
 }
 
 
