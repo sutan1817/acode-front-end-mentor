@@ -175,7 +175,7 @@ body{
   margin:auto;
   aspect-ratio:16/9;
   position:relative;
-  
+  border-radius:.5rem;
 }
 
 
