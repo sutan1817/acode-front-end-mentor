@@ -6,5 +6,7 @@ person{
   }
 }
 default(){
-  
+  console.log('name: ${this.name}');
+  console.log('age: ${this.age}');
+  console.log('country: ${this.country}');
 }
