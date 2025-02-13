@@ -10,3 +10,4 @@ default(){
   console.log('age: ${this.age}');
   console.log('country: ${this.country}');
 }
+person1=
