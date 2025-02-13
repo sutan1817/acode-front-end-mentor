@@ -179,6 +179,7 @@ body{
 }
 .ticket-container{
   background-image:url(design font and style//password generator//pattern-ticket.svg);
+  background-size:contain;
 }
 
 
