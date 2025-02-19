@@ -36,6 +36,8 @@ body{
   backdrop-filter:10px(blur);
 }
 #input-foto{
-  
+  outline-color:white;
+  background-color:var(--Neutral-300);
+  backdrop-filter:10px(blur);
 }
   
