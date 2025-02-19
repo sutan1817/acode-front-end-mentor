@@ -30,4 +30,9 @@ body{
   background-color:var(--Neutral-500);
   backdrop-filter:10px(blur);
 }
+.input-file{
+  padding:0.8rem 9rem;
+  background-color:var(--Neutral-500);
+  backdrop-filter:10px(blur);
+}
   
