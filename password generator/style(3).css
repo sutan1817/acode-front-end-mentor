@@ -24,7 +24,6 @@ body{
   width:100%;
   color:white;
   background-color:var(--Neutral-900);
-;
 }
 .input-form input{
   padding:0.8rem 9rem;
@@ -32,13 +31,11 @@ body{
   border-radius:8px;
   border-color:var(--Neutral-0);
   width:90%;
-  
  }
 .input-file{
   padding:0.8rem 9rem;
   background-color:var(--Neutral-500);
   width:90%;
-
 }
 #input-foto{
   outline-color:white;
