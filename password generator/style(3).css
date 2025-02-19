@@ -23,11 +23,11 @@ body{
   min-height:100vh;
   width:100%;
   color:white;
-  background-color:--Neutral-700;
+  background-color:var(--Neutral-700);
 }
 .input-form{
   padding:0.8rem 9rem;
-  
-  
+  background-color:var(--Neutral-500);
+  backdrop-filter:10px(blur);
 }
   
