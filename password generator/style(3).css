@@ -1,7 +1,7 @@
 :root{
   Colors
 
---Neutral-0: hsl(0, 0%, 100%);
+--neutral-0:hsl(0, 0%, 100%);
 --Neutral-300: hsl(252, 6%, 83%);
 --Neutral-500: hsl(245, 15%, 58%);
 --Neutral-700: hsl(245, 19%, 35%);
@@ -24,6 +24,7 @@ body{
   width:100%;
   color:white;
   background-color:var(--Neutral-900);
+;
 }
 .input-form input{
   padding:0.8rem 9rem;
@@ -31,14 +32,30 @@ body{
   border-radius:8px;
   border-color:var(--Neutral-0);
   width:90%;
+  
+ }
+ .input-form{
+     padding:16px;
+     justify-content:center;
  }
 .input-file{
   padding:0.8rem 9rem;
   background-color:var(--Neutral-500);
-  width:90%;
+  min-width:90%;
+  border-color:var(--neutral-0);
+
 }
-#input-foto{
+#uploud-div{
   outline-color:white;
   background-color:var(--Neutral-300);
+  border-width:;
+  border-radius:8px;
+  overflow:hidden;
 }
-  
+#uploud-div .input-file{
+    display:hidden;
+}
+#item-content{
+    justify-items:center;
+}
+}
