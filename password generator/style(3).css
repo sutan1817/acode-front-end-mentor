@@ -48,7 +48,7 @@ body{
 #uploud-div{
   outline-color:white;
   background-color:var(--Neutral-300);
-  border-width:;
+  border-width:500px;
   border-radius:8px;
   overflow:hidden;
 }
