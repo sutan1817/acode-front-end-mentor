@@ -35,7 +35,7 @@ body{
   
  }
  .input-form{
-     padding:16px;
+     padding:1rem;
      justify-content:center;
  }
 .input-file{
@@ -57,5 +57,4 @@ body{
 }
 #item-content{
     justify-items:center;
-}
 }
