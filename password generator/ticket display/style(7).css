@@ -1,0 +1,25 @@
+:root{
+  Colors
+
+--neutral-0:hsl(0, 0%, 100%);
+--Neutral-300: hsl(252, 6%, 83%);
+--Neutral-500: hsl(245, 15%, 58%);
+--Neutral-700: hsl(245, 19%, 35%);
+--Neutral-900: hsl(248, 70%, 10%);
+--Orange-500: hsl(7, 88%, 67%);
+--Orange-700: hsl(7, 71%, 60%);
+
+--Gradient-text: hsl(7, 86%, 67%);
+--gradient-to:hsl(0, 0%, 100%);
+}
+#div1{
+  border-color:black;
+  width:90%;
+  height:64px;
+  border:bold;
+}
+body{
+  min-height:100vh;
+  width:100%;
+  color:white;
+  background-color:var(--Neutral-900);}
