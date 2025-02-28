@@ -15,4 +15,4 @@ const formdata = {
   image:''
   }
 input-form.addEventlistener('dragover'(e)=>{
-  (e.preventdefault})
+  e.preventdefault})
